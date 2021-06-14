@@ -1,4 +1,4 @@
-# LikeMinds_DailyBasket
+# DailyBasket
 
 Daily Basket is an e-commerce platform from LikeMinds. The various functionalities
 required to be implemented are listed below.
